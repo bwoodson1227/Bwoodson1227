@@ -1,16 +1,15 @@
-### Hi there 👋
+Feel free to drop me a line with any questions about my work in </br>
+<p><!--
+  --><img src="https://img.shields.io/badge/Django-green" alt="Django"/>&nbsp&nbsp&deg&nbsp&nbsp<!-- 
+  --><img src="https://img.shields.io/badge/BackEnd-blue" alt="BackEnd"/>&nbsp&nbsp&deg&nbsp&nbsp<!-- 
+  --><img src="https://img.shields.io/badge/Python-yellow" alt="Python"/>&nbsp<!-- 
+--></p> 
 
-<!--
-**bwoodson1227/Bwoodson1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Studies in Python, Django, Back-End, and Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+✅ weird fixation with regex </br>
+✅ loves helping people save time on manual processes </br>
+✅ fond of green boxes
