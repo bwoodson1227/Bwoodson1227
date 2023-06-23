@@ -7,9 +7,3 @@ Feel free to drop me a line with any questions about my work in </br>
 
 
 Studies in Python, Django, Back-End, and Flask
-
-
-
-✅ weird fixation with regex </br>
-✅ loves helping people save time on manual processes </br>
-✅ fond of green boxes
